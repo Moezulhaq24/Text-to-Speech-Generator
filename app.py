@@ -1,3 +1,5 @@
+# This text to speech converter uses facebook/mms-tts-eng model and it is made as the streamlit app but not hosted.
+
 import streamlit as st
 from transformers import VitsModel, AutoTokenizer
 import torch
