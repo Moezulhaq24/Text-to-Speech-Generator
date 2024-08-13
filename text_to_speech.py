@@ -1,3 +1,5 @@
+# This text to speech converter uses microsoft/speecht5_tts model and it is not on the streamlit
+
 # pip install datasets
 # pip install soundfile
 
